@@ -1,0 +1,8 @@
+{
+  "name": "absoluutBIJ",
+  "app_id": "2b7bd545",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
